@@ -19,7 +19,9 @@ Run the project:
 open index.html
 
 Link To Site
-[View Site Here](https://keyabirdsbill.io/InsecureBanking/)
+[View Site Here](https://keya-birdsbillbankingapplication.s3.us-east-2.amazonaws.com/index.html#/)
+Link To Video Walkthrough
+[View Video Here](https://vimeo.com/922747828/25e1bc3c57?share=copy)
 
 Link to Github: https://github.com/KeyaBirdsbill
 This project builds upon a Single Page React Application (SPA) architecture for a basic banking application. It's important to note that this project adopts a different approach, using React and React Router without a module bundler or imports, resulting in a single-file SPA.
