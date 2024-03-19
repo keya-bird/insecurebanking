@@ -18,10 +18,10 @@ cd InsecureBanking
 Run the project:
 open index.html
 
-##Link To Site
+Link To Site
 [View Site Here](https://keyabirdsbill.io/InsecureBanking/)
 
-##Link to Github: https://github.com/KeyaBirdsbill
+Link to Github: https://github.com/KeyaBirdsbill
 This project builds upon a Single Page React Application (SPA) architecture for a basic banking application. It's important to note that this project adopts a different approach, using React and React Router without a module bundler or imports, resulting in a single-file SPA.
 
 Implemented email validation using regular expressions.
